@@ -60,6 +60,11 @@ complete the initial configuration of a new lesson repository built from this te
       author list grows and other details become available or need to change.
       The [Citation File Format home page][cff-home] gives more information about the format,
       and the [`cffinit` webtool][cffinit] can be used to create new and update existing CFF files.
+1. **Adjust the name of the `.Rproj` file.**
+   It is simplest to make this match the name of the repository.
+1. **Adjust the 
+   `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `LICENSE.md` files**
+   as appropriate for your project.
    -  `CODE_OF_CONDUCT.md`: 
       if you are using this template for a project outside The Carpentries,
       you should adjust this file to describe 
