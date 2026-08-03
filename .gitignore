@@ -49,6 +49,5 @@ docs/
 # translation temp files
 po/*~
 
-# Custom
-renv/
-renv/sandbox
+# renv detritus
+renv/sandbox/
